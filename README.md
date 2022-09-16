@@ -1,5 +1,5 @@
 # 50.042_CTF
-Team : Ivan Feng, Wang Siyang, Weihong Qiu, Dylan Raharja
+Team : Ivan Feng, Wang Siyang, Weihong Qiu, Dylan Raharja, Saakshi Saraf
 - [50.042_CTF](#50042_ctf)
   - [Story](#story)
   - [Challenge](#challenge)
